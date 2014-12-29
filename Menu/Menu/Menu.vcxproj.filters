@@ -15,8 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A1.c">
+    <ClCompile Include="Menu_dyn.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="menu.c">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

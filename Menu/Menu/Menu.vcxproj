@@ -64,7 +64,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="A1.c" />
+    <ClCompile Include="Menu_dyn.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="menu.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
